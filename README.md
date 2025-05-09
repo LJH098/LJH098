@@ -42,6 +42,7 @@
 - 수백 명의 동시 요청을 안정적으로 처리  
 - peek-pop 구조를 통한 데이터 유실 방지  
 - 기술 스택: Spring Boot, Redis, MySQL, JPA
+- [🔗 GitHub 보기](https://github.com/JNU-Parking-Ticket-Project/Parking-Ticket-BE)
 
 ### 🍽️ EATceed – 잔반을 줄이는 스마트 식권 시스템  
 > 에코노베이션 팀 프로젝트  
