@@ -1,55 +1,71 @@
-# 👋 안녕하세요, 개발자 이진혁입니다
+<div align="center">
 
-저는 **데이터의 정확성과 시스템의 신뢰성**이 좋은 서비스의 핵심이라고 믿는 백엔드 개발자입니다.  
-기능 구현에만 머무르지 않고, 동시성·정합성·확장성 문제를 주도적으로 고민하고 해결하는 개발자로 성장하고 있습니다.  
-협업을 중요하게 여기며, 팀과 함께 성장하는 개발 문화를 만드는 데 관심이 많습니다.
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Jinhyuk's%20GitHub!&fontSize=35&fontAlign=50&fontColor=ffffff)
+
+</div>
+
+---
+
+## 👋 소개합니다
+
+안녕하세요!  
+**데이터의 정확성과 시스템의 신뢰성**을 최우선으로 고민하는 백엔드 개발자, 이진혁입니다.
+
+- 🎓 전남대학교 컴퓨터정보통신공학부 재학  
+- 💻 전남대 IT 동아리 **에코노베이션** 26기 회장  
+- 🧠 Redis Sorted Set을 활용한 실시간 트래픽 처리 시스템 경험  
+- ⚙️ 코드 리뷰와 문서화를 중요하게 여기는 팀 중심 개발자  
+- 🎯 최종 목표는 **기술로 사용자의 신뢰와 편의를 전달하는 개발자**가 되는 것입니다.
 
 ---
 
 ## 🛠️ 기술 스택
 
-- **Language**: Java, C
-- **Backend**: Spring Boot, JPA, QueryDSL, Redis 등
-- **Database**: MySQL, MongoDB
-- **DevOps**: Docker, GitHub Actions
-- **Infra 경험**: Ubuntu, Nginx, SSL 인증서\
+### 🧑‍💻 Language  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+
+
+### ⚙️ Backend & Infra  
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 ---
 
-## 💡 나에 대해
+## 💼 주요 프로젝트
 
-- 🎓 전남대학교 컴퓨터정보통신공학부 재학  
-- 🌱 전남대 IT 동아리 **에코노베이션(ECONOVATION)** 26기 회장  
-- ⚙️ 실시간 트래픽 처리 및 데이터 정합성 문제 해결에 강한 흥미  
-- 🔄 꾸준한 코드 리뷰, 아키텍처 고민, 문서화 문화에 관심  
-- 🎯 **기술을 통해 사용자에게 신뢰와 편의를 전달하는 개발자**가 되는 것이 저의 최종 목표입니다.
+### 🅿️ Parking Ticket System  
+> Redis Sorted Set을 이용한 **선착순 주차권 신청 시스템**  
+- 수백 명의 동시 요청을 안정적으로 처리  
+- peek-pop 구조를 통한 데이터 유실 방지  
+- 기술 스택: Spring Boot, Redis, MySQL, JPA
 
----
-
-## 📂 주요 프로젝트
-
-### 🅿️ Parking Ticket System
-> 실시간 트래픽이 몰리는 주차권 선착순 신청 시스템
-
-- Redis Sorted Set을 활용해 요청 순서 보장 및 동시성 제어
-- peek-pop 구조의 배치 처리로 데이터 유실 방지
-- 사용자 수백 명의 동시 요청 환경에서 안정적인 분배 처리 구현
-- `Spring Boot`, `Redis`, `JPA`, `MySQL`, `Docker`
+### 🍽️ EATceed – 잔반을 줄이는 스마트 식권 시스템  
+> 에코노베이션 팀 프로젝트  
+- 사용자 예약, 통계 기반 API 개발  
+- Spring Security 기반 JWT 인증 설계  
+- [🔗 GitHub 보기](https://github.com/JNU-econovation/EATceed-BE)
 
 ---
 
-### 🍽 EATceed - 잔반을 줄이는 스마트 식권 시스템  
-🔗 [GitHub 바로가기](https://github.com/JNU-econovation/EATceed-BE)
+## 📊 GitHub Stats
 
-- 사용자의 식사 패턴 데이터를 분석하여 음식 제공량을 개인화
-- 사용자 인증, 예약, 통계 API 등 핵심 기능 백엔드 개발
-- Spring Security 기반 JWT 인증 및 예외 처리 설계
-- `Spring Boot`, `JPA`, `QueryDSL`, `MySQL`, `Docker`
+<div align="center">
+
+![Jinhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJH098&show_icons=true&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH098&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 📫 Contact
+## 📫 연락처
 
-- 📧 Email: ekrrdj07@naver.com
+- ✉️ Email: ekrrdj07@naver.com  
+---
 
-방문해주셔서 감사합니다! 함께 성장하는 개발자가 되겠습니다. 🚀
+🙌 감사합니다! 함께 성장할 수 있는 개발자가 되겠습니다.
